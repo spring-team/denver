@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 @RestController
 class DenverController {
     
-    @Autowired public DemoController() {
+    @Autowired public DenverController() {
     }
 
     /**
